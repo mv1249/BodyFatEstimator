@@ -3,7 +3,6 @@ from flask import Flask, request, render_template
 
 import pickle
 
-import requests
 
 
 file1 = open('bodyfatmodel.pkl', 'rb')
